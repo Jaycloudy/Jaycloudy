@@ -11,9 +11,7 @@
     Building African Vibes in Code 🌍✨
   </p>
 </div>
-
-<br><br> <!-- Spacing fix -->
-
+ <!-- Spacing fix -->
 ---
 
 ## 🔥 What Drives Me
