@@ -12,7 +12,7 @@
   </p>
 </div>
 
-<br><br><br><br> <!-- Spacing fix -->
+<br><br> <!-- Spacing fix -->
 
 ---
 
