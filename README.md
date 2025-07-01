@@ -1,6 +1,5 @@
 <!-- Simulated Text Overlay on Banner -->
 <div align="center">
-  <img src="banner.png" alt="Jacob John Banner" width="100%" />
   
   <h1 style="position: relative; top: -250px; color: white; font-size: 40px; font-weight: bold;">
     👋 Hi there, I'm Jacob John!
