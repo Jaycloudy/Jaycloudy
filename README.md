@@ -1,60 +1,96 @@
-<!-- Simulated Text Overlay on Banner -->
-<div align="center">
-  
-  <h1 style="position: relative; top: -250px; color: white; font-size: 40px; font-weight: bold;">
-    👋 Hi there, I'm Jacob John!
-  </h1>
-  <h3 style="position: relative; top: -250px; color: gold;">
-    Front-End Developer in Training
-  </h3>
-  <p style="position: relative; top: -250px; color: white; font-size: 16px;">
-    Building African Vibes in Code 🌍✨
-  </p>
-</div>
+#  Hi, I'm JayCloud
 
-## 🔥 What Drives Me
+### Frontend Developer • C++ Developer
 
-🛠 I love:
-- Crafting beautiful and responsive user interfaces  
-- Exploring innovative solutions to everyday problems  
-- Blending **creativity** with **technology** for meaningful impact
+> **Building software with African creativity.**
 
-💡 I value:
-- Resilience  
-- Truthfulness  
-- Respect  
-- Active listening  
-- Continuous learning
+I enjoy building modern web applications, solving real-world problems with C++, and sharing my learning journey publicly. My goal is to create software that is useful, scalable, and impactful.
 
 ---
 
-## 🚀 My Learning Journey
+##  About Me
 
-🔸 **Current Program:** ALX Pro Front-End  
-🔸 **Focus Areas:** HTML, CSS, JavaScript, Git, React, Responsive Design  
-🔸 **Next Steps:** TypeScript, API Integration, Next.js, UI/UX best practices
-
-📅 I track my progress daily and do **weekly reviews** to stay on course.
-
----
-
-## 🛠️ My Skill Set (in progress):
-
-**Front-End:**  
-HTML5, CSS3, JavaScript ES6+, Git, GitHub, React (in progress)
-
-**Learning Soon:**  
-Next.js, TypeScript, Redux, Styled Components, Figma
+-  Based in Lagos, Nigeria
+-  Frontend Developer passionate about creating responsive and user-friendly websites
+-  Learning Modern C++ through hands-on projects
+-  Currently enrolled in the TechCrush Frontend Web Development Bootcamp
+-  Building projects consistently and documenting my progress
+-  Working toward freelance opportunities and open-source contributions
 
 ---
 
-## 📫 Let's Connect!
+##  Current Focus
 
-I'm always open to collaborate, learn, and grow together:
-
-- [LinkedIn](https://linkedin.com/in/jacob-john-okon)  
-- [Twitter](https://twitter.com/surejay41)
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Responsive Web Design
+- Bootstrap
+- Git & GitHub
+- Modern C++
+- Problem Solving
 
 ---
 
-_Thanks for stopping by. Keep building. Keep learning. Keep vibing! ✨_
+##  Tech Stack
+
+### Languages
+
+- HTML5
+- CSS3
+- JavaScript
+- C++
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+
+---
+
+##  Currently Learning
+
+- Responsive Web Design
+- Bootstrap
+- Modern JavaScript
+- DOM Manipulation
+- Asynchronous JavaScript
+- Object-Oriented Programming in C++
+
+---
+
+##  Featured Projects
+
+Coming soon...
+
+-  Restaurant Management System (C++)
+-  Personal Portfolio Website
+-  Cleaning Company Website
+-  TechCrush Bootcamp Projects
+
+---
+
+##  2026 Goals
+
+- ✅ Complete the TechCrush Frontend Bootcamp
+- ✅ Build 20+ quality projects
+- ✅ Master Modern JavaScript
+- ✅ Become proficient in C++
+- ✅ Launch my portfolio website
+- ✅ Land my first freelance client
+- ✅ Contribute to Open Source
+
+---
+
+##  Let's Connect
+
+ Lagos, Nigeria
+
+ Email: **jaycloud11@gmail.com**
+
+ X: **@Surejay41**
+
+---
+
+ *Thanks for visiting my profile! Feel free to explore my repositories and follow my journey as I continue building, learning, and growing as a software developer.*
