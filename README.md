@@ -73,13 +73,13 @@ Coming soon...
 
 ##  2026 Goals
 
-- ✅ Complete the TechCrush Frontend Bootcamp
-- ✅ Build 20+ quality projects
-- ✅ Master Modern JavaScript
-- ✅ Become proficient in C++
-- ✅ Launch my portfolio website
-- ✅ Land my first freelance client
-- ✅ Contribute to Open Source
+-  Complete the TechCrush Frontend Bootcamp
+-  Build 20+ quality projects
+-  Master Modern JavaScript
+-  Become proficient in C++
+-  Launch my portfolio website
+-  Land my first freelance client
+-  Contribute to Open Source
 
 ---
 
